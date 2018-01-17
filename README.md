@@ -30,6 +30,8 @@ make run
 
 The index/ folder will be mounted under /index inside the container. Use it for the WIMU configuration.
 
+The service will be available at:
+<pre>http://localhost:8080</pre>
 ## TODOs
 Include the path to the lucene indexes:
 <pre>
