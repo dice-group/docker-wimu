@@ -35,7 +35,5 @@ The service will be available at:
 ## TODOs
 Include the path to the lucene indexes:
 <pre>
-Dir HDT = /index/luceneDirHDT_,/index/luceneDirHDT_1,/index/luceneDirHDT_2,/index/luceneDirHDT_3
-Dir Lucene endpoints = /index/endpoints
-Dir Lucene dumps = /index/lodStatsDumps
+Dir HDT = /index/
 </pre>
